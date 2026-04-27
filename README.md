@@ -1,2 +1,11 @@
-# selenium-java-automation
-Selenium Automation Framework using Java, TestNG, Maven - Learning and building automation projects
+# Selenium Automation Framework
+
+This project contains my learning and implementation of Selenium Automation using:
+
+- Java 21
+- Selenium WebDriver
+- TestNG
+- Maven
+
+## Author
+Thanku
